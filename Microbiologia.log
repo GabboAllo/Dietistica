@@ -1,0 +1,155 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.23)  29 OCT 2024 10:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Microbiologia.tex
+(Microbiologia.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+(C:\Users\Utente\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Users\Utente\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(C:\Users\Utente\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\lingmacros.
+sty
+\c@enums=\count268
+\widelabel=\dimen142
+\c@tempcnt=\count269
+\c@enumsi=\count270
+\eeindent=\dimen143
+)
+(C:\Users\Utente\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\tree-dvips.
+sty
+tree-dvips version .91 of May 16, 1995
+\nodemargin=\dimen144
+\treelinewidth=\dimen145
+\dashlength=\dimen146
+\arrowwidth=\dimen147
+\arrowlength=\dimen148
+\arrowinset=\dimen149
+\pos@t=\toks17
+\pos@b=\toks18
+\pos@l=\toks19
+\pos@r=\toks20
+\pos@tl=\toks21
+\pos@tr=\toks22
+\pos@bl=\toks23
+\pos@br=\toks24
+\@arrow=\count271
+\@tempdimc=\dimen150
+)
+(C:\Users\Utente\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count272
+\l__pdf_internal_box=\box52
+) (Microbiologia.aux)
+\openout1 = `Microbiologia.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+Overfull \hbox (3.32672pt too wide) in paragraph at lines 7--12
+\OT1/cmr/bx/n/10 Saprofiti \OT1/cmr/m/n/10 come miceti che de-com-pon-gono ma-t
+e-ri-ale or-gan-ico ren-den-dolo disponi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--17
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--26
+
+ []
+
+
+Overfull \hbox (14.63364pt too wide) in paragraph at lines 18--26
+\OT1/cmr/m/n/10 Le \OT1/cmr/bx/n/10 zoonosi \OT1/cmr/m/n/10 pos-sono fare un sa
+lto di specie di-retto op-pure us-are un $[]$
+ []
+
+
+Overfull \hbox (11.44505pt too wide) in paragraph at lines 18--26
+\OT1/cmr/m/n/10 clu-si-va-mente a trasmis-sione ses-suale perch^^Se non so-prav
+-vivono facil-mente all'esterno
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--26
+
+ []
+
+
+
+[1
+
+
+Non-PDF special ignored!
+<special> header=tree-dvips91.pro
+{C:/Users/Utente/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+[2] (Microbiologia.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-09-10>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 578 strings out of 473899
+ 10875 string characters out of 5726027
+ 402040 words of memory out of 5000000
+ 23522 multiletter control sequences out of 15000+600000
+ 558982 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 35i,5n,50p,597b,111s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr10.pfb>
+Output written on Microbiologia.pdf (2 pages, 53309 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
