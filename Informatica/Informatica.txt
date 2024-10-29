@@ -1,0 +1,22 @@
+1.A.
+L'informazione viene rappresentata con l'uso di simboli che corrispondono solitamente a bianco e nero, 0 e 1 (in base 2). 
+L'uso di numeri permette di usare un sistema posizionale (arabo in base 10) che basa l'importanza e il peso di ogni numero a seconda della sua posizione da dx a sx (arabo).
+Bit= unità di informazione che possiede solo due valori (0 e 1) usato nei calcolatori. I calcoli automatici sono permessi da stringhe di bit su un circuito elettronico. 
+Byte= 8 bit.
+Conversione sistemi decimale, ottale, esadecimale, binario (es. decimale-binario 54= 00110110) (es. calcolo binario 1*2^0+1*2^1+0*2^2+1*2^3, fino ad un massimo di 255 (da -128 a +127)).
+Con l'esadecimale si indicano cifre sopra il 9 con le lettere (A= 1010= 10).
+Per sottrarre dei numeri occorre sommare il complemento di un numero in binario (???), le moltiplicazioni si calcolano come una normale moltiplicazione decimale.
+Per rappresentare numeri con la virgola usiamo la virgola fissa o mobile: la prima richiede di precisare dove finiscono i numeri interi e dove iniziano i decimali; la seconda (più usata) usa l'esponente in base x moltiplicando il numero intero (es. 63025*10^-2). In ogni caso è necessario rappresentare il segno generale dei bit. 
+Con il codice ASCII si rappresentano caratteri alfa-numerici ed è quello su cui si basano le tastiere. 
+L'algebra di Boole si basa su un alfabeto binario (V e F) per creare le tabelle di verità, a queste sono aggiunti AND (*), OR (+) e NOT (-). Per questo motivo hanno le stesse proprietà di un sistema binario O1. Le tabelle di verità possono essere rappresentate tramite circuiti logici. 
+Il principio di dualità dice che un circuito di porte di un tipo può essere rappresentato con porte del tipo opposto (nA NOR nB = nA AND nB).
+1.B.
+L'informazione viene rappresentata e comunicata grazie ad una codifica e successiva decodifica che ne permette l'archiviazione, tutto questo è gestito dal calcolatore.
+Il calcolatore possiede una memoria centrale (RAM, ROM, HD, SD) dove le informazioni sono archiviate, un'unità di elaborazione (CPU) e un canale di collegamento (BUS) unisce tutti i componenti a periferiche interne (scheda madre e software) e esterne (di input e output, hardware). 
+La CPU è quella che si occupa di eseguire le istruzioni che le vengono date dall'esterno e le invia al BUS permettendo di tradurre i compiti in binario per gli altri componenti del calcolatore, è composta da più componenti interconnessi: ALU (elaboratore che fa somme bit a bit), registri IR, PC e SR (guidano la CPU nelle sue microistruzioni), clock (determina la velocità di esecuzione del calcolatore in Hz), CU (il firmware, controlla le microistruzioni alla CPU scandite dal clock). Le istruzioni che arrivano alla CPU sono di alto (dall'utente) e basso livello e livello macchina. Il firmware è il codice di base usato dalla CPU per svolgere le sue istruzioni. 
+Le memorie dati sono volatili (perdono informazione in caso di alimentazione mancante) e non (contiene i programmi più importanti), ogni memoria contiene informazioni diverse a diversi livelli di accessibilità: ROM (Read only memory, programma di avvio a sola lettura permanente) e RAM (Random assist memory, memorie riscrivibili quando serve, contiene sistema operativo e applicazioni accese) sono interne e quindi sincronizzate con il clock. La cache memory viene messa a metà strada tra CPU e RAM, si occupa di velocizzare l'accensione di programmi appena chiusi mantenendoli per un tempo limitate con uno spazio altamente limitato. 
+La memoria di massa è una memoria secondaria aggiuntiva esterna lontana dalla CPU non volatile ma riscrivibile. Possono essere magnetiche (HDD), ottiche (CD/DVD) o chip (SSD). Un sistema operativo troppo pesante per la RAM viene dislocato nella memoria di massa perché più spaziosa, ma sarà più lento.
+Il BUS di comunicazione collega tutti i dispositivi in tre tipi: data-bus (informazioni presenti in tutti i dispositivi e periferiche), address-bus (indica dove prelevare le informazioni) e control-bus (controlla le periferiche perché sono hanno spesso priorità maggiore).
+La scheda madre è dove vengono inseriti i componenti sia di base che aggiuntivi.
+Le interfacce verso le periferiche rappresentano l'informazione in maniera grafica come GPU che si basano sul driver (software che permettono di dialogare con periferiche). 
+Le periferiche si collegano al calcolatore tramite porte USB (universal ... bus). 
