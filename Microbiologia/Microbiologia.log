@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.23)  29 OCT 2024 10:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.23)  2 NOV 2024 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -116,11 +116,6 @@ Overfull \hbox (11.44505pt too wide) in paragraph at lines 18--26
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--26
-
- []
-
-
 
 [1
 
@@ -128,28 +123,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--26
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
 {C:/Users/Utente/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
-[2] (Microbiologia.aux)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--38
+
+ []
+
+
+
+[2]
+Overfull \hbox (9.19513pt too wide) in paragraph at lines 41--50
+\OT1/cmr/m/n/10 che per-me-t-tono di portare all'interno l'estraneo e for-mare 
+il $[]$, quest'ultimo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--50
+
+ []
+
+
+Overfull \hbox (5.49323pt too wide) in paragraph at lines 41--50
+\OT1/cmr/m/n/10 Le cel-lule \OT1/cmr/bx/n/10 nat-u-ral killer \OT1/cmr/m/n/10 a
+gis-cono sui tu-mori avvic-i-nan-dosi alla cel-lula e liberando
+ []
+
+
+
+[3]
+Overfull \hbox (6.13959pt too wide) in paragraph at lines 50--54
+\OT1/cmr/m/n/10 for-mano il MAC, com-p-lesso di at-tacco alla mem-brana for-man
+do pori nell'estraneo.
+ []
+
+
+
+[4]
+
+[5] (Microbiologia.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 578 strings out of 473899
- 10875 string characters out of 5726027
- 402040 words of memory out of 5000000
- 23522 multiletter control sequences out of 15000+600000
- 558982 words of font info for 39 fonts, out of 8000000 for 9000
+ 581 strings out of 473899
+ 10913 string characters out of 5726027
+ 405040 words of memory out of 5000000
+ 23525 multiletter control sequences out of 15000+600000
+ 559587 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,5n,50p,597b,111s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 35i,5n,50p,892b,111s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmbx10.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmbx12.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr10.pfb>
-Output written on Microbiologia.pdf (2 pages, 53309 bytes).
+1/public/amsfonts/cm/cmr10.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on Microbiologia.pdf (5 pages, 77589 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
+ 38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
