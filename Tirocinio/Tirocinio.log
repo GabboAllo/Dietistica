@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.23)  29 OCT 2024 10:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.23)  15 NOV 2024 12:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -150,26 +150,16 @@ Overfull \hbox (43.55893pt too wide) in paragraph at lines 60--76
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--82
-
- []
-
-
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 86--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 86--91
+Underfull \hbox (badness 10000) in paragraph at lines 85--90
 
  []
 
 
 
 [5]
-Overfull \hbox (48.50041pt too wide) in paragraph at lines 104--111
+Overfull \hbox (48.50041pt too wide) in paragraph at lines 103--110
  [] 
  []
 
@@ -177,7 +167,60 @@ Overfull \hbox (48.50041pt too wide) in paragraph at lines 104--111
 
 [6]
 
-[7] (Tirocinio.aux)
+[7]
+Overfull \hbox (18.08398pt too wide) in paragraph at lines 139--141
+\OT1/cmr/m/n/10 male, ^^Re im-por-tante per la sua azione ipocoles-terolem-iz-z
+ante riducendo l'assorbimento
+ []
+
+
+Overfull \hbox (69.78174pt too wide) in paragraph at lines 143--173
+ [] 
+ []
+
+
+
+[8]
+Overfull \vbox (37.75818pt too high) has occurred while \output is active []
+
+
+
+[9]
+Overfull \hbox (4.145pt too wide) in paragraph at lines 183--191
+ [] 
+ []
+
+
+Overfull \hbox (12.39328pt too wide) in paragraph at lines 199--209
+ [] 
+ []
+
+
+
+[10]
+Overfull \hbox (12.39328pt too wide) in paragraph at lines 216--226
+ [] 
+ []
+
+
+
+[11]
+Overfull \hbox (12.39328pt too wide) in paragraph at lines 231--241
+ [] 
+ []
+
+
+
+[12]
+Overfull \hbox (12.39328pt too wide) in paragraph at lines 246--256
+ [] 
+ []
+
+
+
+[13]
+
+[14] (Tirocinio.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -186,20 +229,20 @@ L3 programming layer <2024-09-10>
 Here is how much of TeX's memory you used:
  835 strings out of 473899
  14158 string characters out of 5726027
- 416067 words of memory out of 5000000
+ 424067 words of memory out of 5000000
  23765 multiletter control sequences out of 15000+600000
  561719 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,14n,51p,589b,326s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 42i,14n,51p,592b,326s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmbx10.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmbx12.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Utente/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Tirocinio.pdf (7 pages, 101118 bytes).
+Output written on Tirocinio.pdf (14 pages, 120396 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
+ 73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
