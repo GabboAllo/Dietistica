@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.23)  30 OCT 2024 12:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.23)  14 NOV 2024 16:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -95,9 +95,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 9.
 
-Overfull \hbox (5.25691pt too wide) in paragraph at lines 9--10
- \OT1/cmr/bx/n/10 In-ibitori com-pet-i-tivi \OT1/cmr/m/n/10 La suc-ci-nato dei-
-dro-ge-nasi viene in-ibita dall'ossalacetato
+Overfull \hbox (4.59027pt too wide) in paragraph at lines 9--10
+ \OT1/cmr/bx/n/10 In-ibitori com-pet-i-tivi $[]$ \OT1/cmr/m/n/10 se la $[]$, qu
+indi $[]$. 
  []
 
 
@@ -108,27 +108,32 @@ dro-ge-nasi viene in-ibita dall'ossalacetato
 Non-PDF special ignored!
 <special> header=tree-dvips91.pro
 {C:/Users/Utente/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(Chimica e biochimica.aux)
+
+[2] (Chimica e biochimica.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 808 strings out of 473899
- 14030 string characters out of 5726027
- 400093 words of memory out of 5000000
- 23745 multiletter control sequences out of 15000+600000
- 558982 words of font info for 39 fonts, out of 8000000 for 9000
+ 816 strings out of 473899
+ 14119 string characters out of 5726027
+ 406093 words of memory out of 5000000
+ 23752 multiletter control sequences out of 15000+600000
+ 559922 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,5n,51p,429b,111s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmbx10.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr10.pfb>
-Output written on "Chimica e biochimica.pdf" (1 page, 42295 bytes).
+ 42i,5n,51p,515b,111s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Utente\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
+m1000.pk><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Utente/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Utente/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Utente/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on "Chimica e biochimica.pdf" (2 pages, 82310 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
