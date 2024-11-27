@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.23)  15 NOV 2024 12:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.23)  26 NOV 2024 10:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -174,16 +174,13 @@ ante riducendo l'assorbimento
  []
 
 
-Overfull \hbox (69.78174pt too wide) in paragraph at lines 143--173
+Overfull \hbox (43.58081pt too wide) in paragraph at lines 143--173
  [] 
  []
 
 
 
 [8]
-Overfull \vbox (37.75818pt too high) has occurred while \output is active []
-
-
 
 [9]
 Overfull \hbox (4.145pt too wide) in paragraph at lines 183--191
@@ -191,36 +188,31 @@ Overfull \hbox (4.145pt too wide) in paragraph at lines 183--191
  []
 
 
-Overfull \hbox (12.39328pt too wide) in paragraph at lines 199--209
- [] 
- []
-
-
 
 [10]
-Overfull \hbox (12.39328pt too wide) in paragraph at lines 216--226
- [] 
- []
-
-
 
 [11]
-Overfull \hbox (12.39328pt too wide) in paragraph at lines 231--241
- [] 
- []
-
-
 
 [12]
-Overfull \hbox (12.39328pt too wide) in paragraph at lines 246--256
- [] 
- []
-
-
 
 [13]
 
-[14] (Tirocinio.aux)
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
+
+ []
+
+
+
+[19] (Tirocinio.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
@@ -239,10 +231,11 @@ Here is how much of TeX's memory you used:
 msfonts/cm/cmbx12.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Utente/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Utente/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Tirocinio.pdf (14 pages, 120396 bytes).
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Utente/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Tirocinio.pdf (19 pages, 138983 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
